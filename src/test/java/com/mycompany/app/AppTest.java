@@ -13,4 +13,5 @@ class AppTest{
   if(flag==0)    
   System.out.println("Number is prime");    
 }  
+}
 }  
