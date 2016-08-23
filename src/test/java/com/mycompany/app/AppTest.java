@@ -1,4 +1,4 @@
-#class AppTest{  
+class AppTest{  
  public static void main(String args[]){  
   int i,m=0,flag=0;    
   int n=17;//it is the number to be checked  
